@@ -1,0 +1,16 @@
+.timeslottime {
+  height: 100px;
+}
+
+.timeslotevent {
+  height: 100px;
+}
+
+.timeslotsaver {
+  height: 100px;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+}
